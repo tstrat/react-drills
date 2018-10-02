@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import InputBox from './InputBox';
+import InputBox from './Login';
 import './App.css';
 
 class App extends Component {
